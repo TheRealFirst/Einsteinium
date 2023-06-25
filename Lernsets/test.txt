@@ -1,0 +1,7 @@
+erstaunt=astonished
+verwirrt, irritiert=bewildered
+begeistert=delighted
+verzweifelt=desperate
+tief bestuerzt=devastated
+enttaeuscht=disappointed
+niedergeschlagen=down
